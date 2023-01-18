@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86d88054-021f-4aaa-8826-d7407e3896b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Wielowatkowosc/zad1/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wielowatkowosc/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wielowatkowosc/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wielowatkowosc/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wielowatkowosc/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wielowatkowosc/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wielowatkowosc/Wielowatkowosc.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wielowatkowosc/out/production/Wielowatkowosc/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wielowatkowosc/out/production/Wielowatkowosc/MyThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wielowatkowosc/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wielowatkowosc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Wielowatkowosc/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +45,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Justyna\IdeaProjects\AplikacjeRozproszoneJava" />
       <recent name="C:\Users\Justyna\IdeaProjects\AplikacjeRozproszoneJava\Synchronizacja" />
     </key>
   </component>
@@ -74,6 +66,15 @@
       <workItem from="1674059946341" duration="110000" />
       <workItem from="1674060133160" duration="44000" />
       <workItem from="1674060201985" duration="12000" />
+      <workItem from="1674060804988" duration="266000" />
+      <workItem from="1674061083522" duration="58000" />
+      <workItem from="1674061154334" duration="16000" />
+      <workItem from="1674061177466" duration="14000" />
+      <workItem from="1674061196418" duration="42000" />
+      <workItem from="1674061245617" duration="73000" />
+      <workItem from="1674061324070" duration="11000" />
+      <workItem from="1674061352773" duration="35000" />
+      <workItem from="1674062669832" duration="95000" />
     </task>
     <servers />
   </component>
