@@ -1,23 +1,28 @@
 import java.net.*;
+import java.io.*;
+import java.util.Random;
+
 public class Main
 {
     public static void main(String args[])
     {
-        if (args.length < 1){
-            System.out.println("Wywołanie programu: Main nazwa_hosta");
-            System.exit(0);
-        }
-        String host = args[0];
-        InetAddress inetAddress = null;
+        Socket socket = null;
+        String[] pages = {"www.wp.pl", "www.ug.edu.pl", "www.onet.pl", "www.interia.pl", "www.helion.pl"};
+
+        Random rand = new Random();
+        int num = rand.nextInt(pages.length);
+
         try{
-            inetAddress = InetAddress.getByName(host);
+            socket = new Socket(pages[num], 80);
         }
         catch(UnknownHostException e){
-            System.out.println(
-                    "Nie można uzyskać adresu IP dla hosta " + host);
-            System.exit(0);
+            System.out.println(e);
         }
-        String ip = inetAddress.getHostAddress();
-        System.out.println("Adres IP komputera " + host +" to: " + ip);
+        catch(IOException e){
+            System.out.println(e);
+        }
+        if(socket != null){
+            System.out.println(socket);
+        }
     }
 }
