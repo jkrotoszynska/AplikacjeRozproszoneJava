@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86d88054-021f-4aaa-8826-d7407e3896b9" name="Default Changelist" comment="" />
+    <list default="true" id="86d88054-021f-4aaa-8826-d7407e3896b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Wielowatkowosc/zad1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wielowatkowosc/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wielowatkowosc/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wielowatkowosc/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wielowatkowosc/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wielowatkowosc/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wielowatkowosc/Wielowatkowosc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wielowatkowosc/out/production/Wielowatkowosc/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wielowatkowosc/out/production/Wielowatkowosc/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wielowatkowosc/src/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +29,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="2KVShi2gaoPP1yR1LQvsX6RNHQ2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,24 +46,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Wielowatkowosc/zad2" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Justyna\IdeaProjects\AplikacjeRozproszoneJava\Synchronizacja" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -58,10 +66,30 @@
       <option name="presentableId" value="Default" />
       <updated>1674058377995</updated>
       <workItem from="1674058379072" duration="151000" />
+      <workItem from="1674058756329" duration="529000" />
+      <workItem from="1674059305679" duration="110000" />
+      <workItem from="1674059443128" duration="6000" />
+      <workItem from="1674059474343" duration="27000" />
+      <workItem from="1674059514150" duration="126000" />
+      <workItem from="1674059946341" duration="110000" />
+      <workItem from="1674060133160" duration="44000" />
+      <workItem from="1674060201985" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
