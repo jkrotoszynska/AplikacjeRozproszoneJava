@@ -3,21 +3,18 @@ public class Main
 {
     public static void main(String args[])
     {
-        if (args.length < 1){
-            System.out.println("Wywołanie programu: Main nazwa_hosta");
-            System.exit(0);
+        InetAddress[] ips;
+        String hostName;
+        try {
+            hostName = InetAddress.getLocalHost().getHostName();
+            ips = InetAddress.getAllByName(hostName);
+
+            for (InetAddress address : ips) {
+                System.out.println(address.getHostAddress());
+            }
+        } catch (UnknownHostException e) {
+            e.printStackTrace();
         }
-        String host = args[0];
-        InetAddress inetAddress = null;
-        try{
-            inetAddress = InetAddress.getByName(host);
-        }
-        catch(UnknownHostException e){
-            System.out.println(
-                    "Nie można uzyskać adresu IP dla hosta " + host);
-            System.exit(0);
-        }
-        String ip = inetAddress.getHostAddress();
-        System.out.println("Adres IP komputera " + host +" to: " + ip);
+
     }
 }
